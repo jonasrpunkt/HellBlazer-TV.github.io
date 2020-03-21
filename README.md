@@ -4,4 +4,5 @@ I wanted to re-write HellBlazer's Civ 5 drafter for Civ 6 because the one from F
 http://civdrafter.com/
 here:
 https://github.com/hosj-IO/civ5rnddrafter
+
 Cheers.
